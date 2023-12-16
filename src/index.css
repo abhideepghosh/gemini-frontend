@@ -1,0 +1,12 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  background-color: #212529;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+body {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
